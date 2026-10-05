@@ -91,8 +91,7 @@ I am a BCA student (3rd Semester) building at the intersection of modern web tec
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrprince6299&show_icons=true&hide_rank=true&hide_border=true" alt="Mithilesh Kumar's GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=mrprince6299&hide_border=true" alt="Mithilesh Kumar's GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=mrprince6299&hide_border=true" alt="Mithilesh Kumar's GitHub Streak" />
 </div>
 
 ---
